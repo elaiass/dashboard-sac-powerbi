@@ -51,7 +51,6 @@ A modelagem foi estruturada no esquema em estrela (*Star Schema*), ligando a tab
 ## 📂 Estrutura do Repositório
 ```text
 ├── img/               # Screenshots do dashboard para a documentação
-├── .gitattributes     # Identificação das linguagens
 ├── Relatorio SAC.pbix # Ficheiro original do Power BI
 └── README.md          # Documentação do projeto
 
