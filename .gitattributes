@@ -1,0 +1,4 @@
+*.dax linguist-language=DAX
+*.pbip linguist-language=PowerBI
+*.tmld linguist-language=TMDL
+*.m linguist-language=M
